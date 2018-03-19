@@ -26,6 +26,7 @@ h1 {
 .footer {
   background: #414548;
   height: 20px;
+  bottom: 0;
   text-align: center;
 }
 
