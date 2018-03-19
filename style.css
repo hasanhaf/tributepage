@@ -1,0 +1,39 @@
+body {
+  margin-top: 35px;
+  background: linear-gradient(90deg, #ff4554 50%, #00c3e3 50%);
+}
+
+li {
+  font-size: 18px;
+}
+
+h1 {
+  font-family: Roboto Condensed, sans-serif;
+}
+
+.jumbotron {
+  background: #414548;
+}
+
+.thumbnail {
+  max-width: 650px;
+}
+
+.inner {
+  margin: 0 auto;
+}
+
+.footer {
+  background: #414548;
+  height: 20px;
+  text-align: center;
+}
+
+/*
+white: EBF4F7
+red: E00B27
+darkblue: 1A2A40
+blue: 2474A6
+orange: F2A30F
+image: https://goo.gl/oCffZW
+*/
